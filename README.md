@@ -29,6 +29,8 @@ When your article is published, either create a pull request with it, or send it
 
 [How To Use CSS Sprites: An Ingenious Way of Reducing Page Loading time](https://hackernoon.com/how-to-use-css-sprites-an-ingenious-way-of-reducing-page-loading-time-c72u37yk)
 
+[CSS block element modifier](https://hackernoon.com/css-design-patternsblock-element-modifiers-qk9e36ut)
+
 [How To Clone Hackernoon HTML Page](https://hackernoon.com/how-to-clone-hackernoon-html-page-2akb325z)
 
 [How To Fix Common Github Branching Issues Without Any Code](https://medium.com/@kylelzk/how-to-fix-common-github-branching-issues-without-any-code-96059f5b820c)
