@@ -12,6 +12,7 @@
 
 - [Tools that I've used for Web Design & Development so far](https://dev.to/juzqrios/tools-that-i-ve-used-for-web-design-development-so-far-2b5j)
 - [How to have a smoother code review](https://medium.com/@kylelzk/how-to-have-a-smoother-code-review-cabb9c04bdd5)
+- [Web Development for Beginners - Key Concepts, Roles and Tools](https://hackernoon.com/important-concepts-that-you-have-to-understand-to-become-a-web-developer-for-beginners-lj202gan)
 
 ## HTML & CSS
 
@@ -25,6 +26,7 @@
 ## Ruby & Ruby on Rails
 
 - [Deploying rails app with facebook login integration](https://medium.com/@web.markyn/creating-and-deploying-rails-application-with-facebook-login-integration-ceaad1025daf)
+- [Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
 
 ## JavaScript
 
