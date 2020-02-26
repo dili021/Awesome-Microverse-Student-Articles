@@ -1,12 +1,9 @@
-# Microverse Students Blog 
+# Microverse Students Blog
 
 ## Prerequisites
 
 - Get your browsers up to date
 - Join [Microverse](https://www.microverse.org)
-
-
-
 
 ## 🤝 Contributing
 
@@ -17,13 +14,11 @@ When your article is published, either create a pull request with it, or send it
 
 # Articles
 
-
 ## General programming
 
 [Tools that I've used for Web Design & Development so far](https://dev.to/juzqrios/tools-that-i-ve-used-for-web-design-development-so-far-2b5j)
 
 [How to have a smoother code review](https://medium.com/@kylelzk/how-to-have-a-smoother-code-review-cabb9c04bdd5)
-
 
 ## HTML & CSS
 
@@ -41,14 +36,9 @@ When your article is published, either create a pull request with it, or send it
 
 [Deploying rails app with facebook login integration](https://medium.com/@web.markyn/creating-and-deploying-rails-application-with-facebook-login-integration-ceaad1025daf)
 
-
 ## JavaScript
 
-
-
 ## React
-
-
 
 ## Other
 
@@ -70,4 +60,5 @@ Stefan Dili
 [@linkedin](https://linkedin.com/in/stefan-dili)
 
 ### Inspired by
+
 Kyle Law
