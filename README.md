@@ -26,12 +26,16 @@ When your article is published, either create a pull request with it, or send it
 - [How To Clone Hackernoon HTML Page](https://hackernoon.com/how-to-clone-hackernoon-html-page-2akb325z)
 - [How To Fix Common Github Branching Issues Without Any Code](https://medium.com/@kylelzk/how-to-fix-common-github-branching-issues-without-any-code-96059f5b820c)
 - [How to create a 3d model with css3](https://medium.com/@annychuks07/how-to-create-a-3d-art-model-with-css3-555a7f0056ed)
+- [CSS Grid IS a grid framework](https://blog.mauriciorobayo.com/css-grid-is-a-grid-framework-ck6jih6cy00u6dfs1vtev2kjl) by [Mauricio Robayo](https://github.com/MauricioRobayo).
 
 ## Ruby & Ruby on Rails
 
 - [Deploying rails app with facebook login integration](https://medium.com/@web.markyn/creating-and-deploying-rails-application-with-facebook-login-integration-ceaad1025daf)
 
 ## JavaScript
+
+- [How to hide your front-end API keys](https://blog.mauriciorobayo.com/how-to-hide-your-front-end-api-keys-ck6jqvll900y3dfs11u3x96tn) by [Mauricio Robayo](https://github.com/MauricioRobayo).
+- [10x your code with the facade pattern, currying, and closures](https://blog.mauriciorobayo.com/css-grid-is-a-grid-framework-ck6jih6cy00u6dfs1vtev2kjl) by [Mauricio Robayo](https://github.com/MauricioRobayo).
 
 ## React
 
