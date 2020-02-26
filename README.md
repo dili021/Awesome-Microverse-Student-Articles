@@ -66,3 +66,6 @@ Stefan Dili
 [@twitter](https://twitter.com/dilistefan)
 
 [@linkedin](https://linkedin.com/in/stefan-dili)
+
+### Inspired by
+Kyle Law
