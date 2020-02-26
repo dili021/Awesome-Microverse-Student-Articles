@@ -1,10 +1,5 @@
 # Microverse Students Blog
 
-## Prerequisites
-
-- Get your browsers up to date
-- Join [Microverse](https://www.microverse.org)
-
 ## 🤝 Contributing
 
 To contribute to this repo you need to:
