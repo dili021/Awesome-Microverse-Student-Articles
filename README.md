@@ -22,11 +22,13 @@
 - [How To Fix Common Github Branching Issues Without Any Code](https://medium.com/@kylelzk/how-to-fix-common-github-branching-issues-without-any-code-96059f5b820c)
 - [How to create a 3d model with css3](https://medium.com/@annychuks07/how-to-create-a-3d-art-model-with-css3-555a7f0056ed)
 - [CSS Grid IS a grid framework](https://blog.mauriciorobayo.com/css-grid-is-a-grid-framework-ck6jih6cy00u6dfs1vtev2kjl) by [Mauricio Robayo](https://github.com/MauricioRobayo).
+- [4 UX Concepts You Have to Know to Be a Better Developer](https://hackernoon.com/4-ux-concepts-you-have-to-know-to-be-a-better-developer-oq1232kt) by [Maria Reyes](https://github.com/majovanilla).
 
 ## Ruby & Ruby on Rails
 
 - [Deploying rails app with facebook login integration](https://medium.com/@web.markyn/creating-and-deploying-rails-application-with-facebook-login-integration-ceaad1025daf)
 - [Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
+- [Understanding your Rails Application Structure (Beginners Guide)](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj) By [Maria Reyes](https://github.com/majovanilla)
 
 ## JavaScript
 
@@ -45,7 +47,15 @@
 To contribute to this repo you need to:
 
 Write a quality article and publish it online. It doesn't necessarily need to be completely technical, but do make it related to either programming in general or your journey at microverse. How it has affected you, your family, your career, motivation, English etc. Anything that stems from "Hey, I'm gonna join Microverse/become a programmer!"
-When your article is published, either create a pull request with it, or send it to microverse.students.blog@gmail.com
+
+When your article is published, there are two ways you can upload it:
+
+- You can fork the repo and create a pull request with it.
+Remember to add your username and your github profile like this: [username](https://github.com/username)
+
+- You can send it to microverse.students.blog@gmail.com
+
+
 
 ## Show your support
 
