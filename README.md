@@ -78,16 +78,3 @@ Remember to add your username and your github profile like this: [username](http
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-👤 **Author**
-Stefan Dili
-
-[@github](https://github.com/dili021)
-
-[@twitter](https://twitter.com/dilistefan)
-
-[@linkedin](https://linkedin.com/in/stefan-dili)
-
-### Inspired by
-
-Kyle Law
