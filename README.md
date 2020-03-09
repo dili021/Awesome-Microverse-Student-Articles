@@ -74,7 +74,7 @@ Write a quality article and publish it online. It doesn't necessarily need to be
 When your article is published, there are two ways you can upload it:
 
 - You can fork the repo and create a pull request with it.
-Remember to add your username and your github profile like this: [username](https://github.com/username)
+Remember to add your username and your github profile like this: <pre>[username](https://github.com/username)</pre>
 
 - You can send it to microverse.students.blog@gmail.com
 
