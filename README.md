@@ -54,6 +54,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 
 - [How to hide your front-end API keys](https://blog.mauriciorobayo.com/how-to-hide-your-front-end-api-keys-ck6jqvll900y3dfs11u3x96tn) by [Mauricio Robayo](https://github.com/MauricioRobayo).
 - [10x your code with the facade pattern, currying, and closures](https://blog.mauriciorobayo.com/10x-your-code-with-the-facade-pattern-currying-and-closures-ck6k04als010ndfs1jg6gg5jo) by [Mauricio Robayo](https://github.com/MauricioRobayo).
+- [Testing a Javascript function that writes to the DOM](https://medium.com/@shloch2007/testing-a-javascript-function-that-writes-to-the-dom-cfcba46a7c12) by [SHEY Louis](https://github.com/shloch).
 
 ## React
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
