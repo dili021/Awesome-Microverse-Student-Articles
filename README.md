@@ -39,6 +39,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [How to create a 3d model with css3](https://medium.com/@annychuks07/how-to-create-a-3d-art-model-with-css3-555a7f0056ed)
 - [CSS Grid IS a grid framework](https://blog.mauriciorobayo.com/css-grid-is-a-grid-framework-ck6jih6cy00u6dfs1vtev2kjl) by [Mauricio Robayo](https://github.com/MauricioRobayo).
 - [4 UX Concepts You Have to Know to Be a Better Developer](https://hackernoon.com/4-ux-concepts-you-have-to-know-to-be-a-better-developer-oq1232kt) by [Maria Reyes](https://github.com/majovanilla).
+- [How to Start With CSS Displaying Basic Elements in HTML](https://hackernoon.com/how-to-start-with-css-displaying-basic-elements-in-html-tz2t3y5j) by [Sergio Zambrano](https://github.com/sergiomauz).
 
 ## Ruby & Ruby on Rails
 
