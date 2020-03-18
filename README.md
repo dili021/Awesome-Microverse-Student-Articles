@@ -11,7 +11,7 @@
 
 
 ## General programming
-
+- [3 Initial Experience at Microverse](https://medium.com/@kblycaglayan/3-initial-experience-at-microverse-20d22354be2e) by [Kubilay Caglayan](https://github.com/kblycaglayan)
 - [Tools that I've used for Web Design & Development so far](https://dev.to/juzqrios/tools-that-i-ve-used-for-web-design-development-so-far-2b5j)
 - [How to have a smoother code review](https://medium.com/@kylelzk/how-to-have-a-smoother-code-review-cabb9c04bdd5)
 - [Web Development for Beginners - Key Concepts, Roles and Tools](https://hackernoon.com/important-concepts-that-you-have-to-understand-to-become-a-web-developer-for-beginners-lj202gan)
