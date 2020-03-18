@@ -45,6 +45,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [How To Make Your Page Look Alive with CSS Transitions](https://hackernoon.com/how-to-make-your-page-look-alive-with-css-transitions-cz2f3yes) by [iSpaYco](https://twitter.com/iSpaYco)
 - [Boost Your CSS with BEM Naming and SASS Nesting](https://hackernoon.com/boost-your-css-with-bem-naming-and-sass-nesting-3x5d3ywo) by [Sebastian Gil](https://github.com/sebGilR)
 - [A Simple Introduction to CSS Animation](https://hackernoon.com/a-simple-introduction-to-css-animation-l72b325c) by [HADDAD Sohaib](https://github.com/HADDADSOHAIB)
+- [Responsive Web Design: Understand And Apply It Once And For All](https://medium.com/@muriloengqui/responsive-web-design-understand-and-apply-it-once-and-for-all-2ffc1e01aa41) by [Murilo Roque](https://github.com/MuriloRoque)
 
 
 
