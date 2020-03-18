@@ -43,6 +43,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [4 UX Concepts You Have to Know to Be a Better Developer](https://hackernoon.com/4-ux-concepts-you-have-to-know-to-be-a-better-developer-oq1232kt) by [Maria Reyes](https://github.com/majovanilla).
 - [How to Start With CSS Displaying Basic Elements in HTML](https://hackernoon.com/how-to-start-with-css-displaying-basic-elements-in-html-tz2t3y5j) by [Sergio Zambrano](https://github.com/sergiomauz).
 - [How To Make Your Page Look Alive with CSS Transitions](https://hackernoon.com/how-to-make-your-page-look-alive-with-css-transitions-cz2f3yes) by [iSpaYco](https://twitter.com/iSpaYco)
+- [Boost Your CSS with BEM Naming and SASS Nesting](https://hackernoon.com/boost-your-css-with-bem-naming-and-sass-nesting-3x5d3ywo) by [Sebastian Gil](https://github.com/sebGilR)
 
 
 ## Ruby & Ruby on Rails
