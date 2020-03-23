@@ -51,6 +51,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 
 ## Ruby & Ruby on Rails
 
+- [Rails Security: Eliminating CSRF and XSS Vulnerabilities](https://medium.com/@michgoldennathan17/rails-security-eliminating-csrf-and-xss-vulnerabilities-5c815faf9c8a) By [Michgolden Ukeje](https://github.com/mikenath223)
 - [Deploying rails app with facebook login integration](https://medium.com/@web.markyn/creating-and-deploying-rails-application-with-facebook-login-integration-ceaad1025daf)
 - [Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
 - [Understanding your Rails Application Structure (Beginners Guide)](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj) By [Maria Reyes](https://github.com/majovanilla)
