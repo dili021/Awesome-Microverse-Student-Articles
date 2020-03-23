@@ -47,6 +47,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [A Simple Introduction to CSS Animation](https://hackernoon.com/a-simple-introduction-to-css-animation-l72b325c) by [HADDAD Sohaib](https://github.com/HADDADSOHAIB)
 - [Responsive Web Design: Understand And Apply It Once And For All](https://medium.com/@muriloengqui/responsive-web-design-understand-and-apply-it-once-and-for-all-2ffc1e01aa41) by [Murilo Roque](https://github.com/MuriloRoque)
 - [Why You Shouldn’t Write Vanilla CSS](https://hackernoon.com/why-you-shouldnt-write-vanilla-v92333xn) by [Ermin Cahtarevic](https://github.com/ermin-cahtarevic)
+- [Understanding Pseudo-Class Selectors](https://hackernoon.com/understanding-pseudo-class-selectors-mg443t89) by [Denis Oluka](https://github.com/OlukaDenis)
 
 ## Ruby & Ruby on Rails
 
