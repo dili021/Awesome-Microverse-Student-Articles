@@ -73,6 +73,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [3 Initial Experience at Microverse](https://medium.com/@kblycaglayan/3-initial-experience-at-microverse-20d22354be2e) by [Kubilay Caglayan](https://github.com/kblycaglayan)
 - [How Mentorship and Reading Through 100,000+ LoC Made Me a Better Human Being](https://hackernoon.com/how-mentorship-and-reading-through-100000-loc-made-me-a-better-human-being-dnx36vl) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [How to Setup Environment Variables for Web Dev projects](http://bit.ly/2v0FMQm) by [Kelvin Liang](https://github.com/kelvin8773)
+- [My experience at Microverse](https://medium.com/@migueldp4/my-experience-at-microverse-d464fd4cb431) by [Miguel Dubois (Mike)](https://github.com/migueldp4)
 
 ## 🤝 Contributing
 
