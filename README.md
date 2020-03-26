@@ -8,6 +8,8 @@
 - [Ruby & Ruby on Rails](#ruby--ruby-on-rails)
 - [JavaScript](#javascript)
 - [React](#React)
+- [Angular](#Angular)
+- [Blockchain](#Blockchain)
 
 
 ## General programming
@@ -17,6 +19,7 @@
 - [Web Development for Beginners - Key Concepts, Roles and Tools](https://hackernoon.com/important-concepts-that-you-have-to-understand-to-become-a-web-developer-for-beginners-lj202gan)
 - [VIM for web-development (HTML/CSS) in 2020](https://medium.com/@felipe.anjos/vim-for-web-development-html-css-in-2020-95576d9b21ad)
 by [Felipe dos Anjos](https://github.com/fc-anjos)
+- [How to Host static website for Free on Github Pages](https://medium.com/mikael-araya-blog/hosting-static-website-on-github-pages-for-free-570e90d6dabd?source=friends_link&sk=0242bdcd89240faae2bd7d9d7c81d223) by [Mikael Araya](https://github.com/mikearaya)
 
 ## Algorithms and Data Structures
 
@@ -63,9 +66,24 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [10x your code with the facade pattern, currying, and closures](https://blog.mauriciorobayo.com/10x-your-code-with-the-facade-pattern-currying-and-closures-ck6k04als010ndfs1jg6gg5jo) by [Mauricio Robayo](https://github.com/MauricioRobayo).
 - [Testing a Javascript function that writes to the DOM](https://medium.com/@shloch2007/testing-a-javascript-function-that-writes-to-the-dom-cfcba46a7c12) by [SHEY Louis](https://github.com/shloch).
 - [How to Use Eslint With Webpack And ES6 Modules](https://hackernoon.com/how-to-use-eslint-with-webpack-and-es6-modules-sr4r3y6x) by [Gabriela Cruz](https://github.com/ViriCruz/)
+- [Deep dive in javascript objects](https://medium.com/mikael-araya-blog/javascript-objects-f8e8f07c1235?source=friends_link&sk=1394e75a26ef4c703153b9eed68bc966) by [Mikael Araya](https://github.com/mikearaya)
 
 ## React
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
+- [Snapshot Testing with Jest ] (https://medium.com/mikael-araya-blog/snapshot-testing-6e78454aeeba?source=friends_link&sk=6547d76a04b6b66c3f7d343dacaaae42) by [Mikael Araya](https://github.com/mikearaya)
+
+## Angular
+- [Run time Optimization of Angular Application using Caching](https://medium.com/mikael-araya-blog/run-time-optimization-of-angular-application-using-caching-9f1fab73c541?source=friends_link&sk=dd2cd5724a364606a270e11a4d70872f) by [Mikael Araya](https://github.com/mikearaya)
+- [Controlling Visibility of components Based on User Claims using Angular Structural Directive](Controlling Visibility of component Based on User Claims using Angular Structural Directive) by [Mikael Araya](https://github.com/mikearaya)
+- [Angular: Restricting user access Using claim based Authorization With Router Guard](https://medium.com/mikael-araya-blog/angular-restricting-user-access-using-claim-based-authorization-with-router-guard-844184f3a029?source=friends_link&sk=7518fed27e46d98d52023ba1097e24c2) by [Mikael Araya](https://github.com/mikearaya)
+- [Dynamic Title Component for Angular Application](https://medium.com/mikael-araya-blog/custom-title-component-for-angular-application-ec4b415e0a66?source=friends_link&sk=b120e5112df19c72097426a6658c88a9) by [Mikael Araya](https://github.com/mikearaya)
+- [Building Clickable Breadcrumbs Component for Angular Application](https://medium.com/mikael-araya-blog/building-clickable-breadcrumbs-component-for-angular-application-584496378215?source=friends_link&sk=4860946a2be59f4640ff0a832f87e0bb) by [Mikael Araya](https://github.com/mikearaya)
+- [Reusable angular grid component using syncfusions ejs-angular-grid](https://medium.com/mikael-araya-blog/reusable-angular-grid-component-using-syncfusions-ejs-angular-grid-d1d2ecca7f99?source=friends_link&sk=8934d7333f63c25aad92d1e9218dc3c3) by [Mikael Araya](https://github.com/mikearaya)
+
+## Blockchain
+- [Developing Ethereum Smart Contract using ERC721 (non-fungible) Token Standard](https://medium.com/mikael-araya-blog/developing-ethereum-smart-contract-using-erc721-non-fungible-token-standard-86f3974a631d?source=friends_link&sk=545065881374ab03fc0688ea8a19343a) by [Mikael Araya](https://github.com/mikearaya)
+- [Build a single organization distributed network using Hyperledger Fabric 1.4](https://medium.com/mikael-araya-blog/build-a-single-organization-distributed-network-using-hyperledger-fabric-1-4-x-cb1122728854?source=friends_link&sk=334b8aaafcaccdb6d9eea31238feb8eb) by [Mikael Araya](https://github.com/mikearaya)
+
 
 ## Other
 
