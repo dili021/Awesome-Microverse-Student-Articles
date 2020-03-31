@@ -20,6 +20,7 @@
 - [VIM for web-development (HTML/CSS) in 2020](https://medium.com/@felipe.anjos/vim-for-web-development-html-css-in-2020-95576d9b21ad)
 by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [How to Host static website for Free on Github Pages](https://medium.com/mikael-araya-blog/hosting-static-website-on-github-pages-for-free-570e90d6dabd?source=friends_link&sk=0242bdcd89240faae2bd7d9d7c81d223) by [Mikael Araya](https://github.com/mikearaya)
+- [My Personal Experience with Impostor Syndrome and How I Overcame It](https://medium.com/@agberndifor7/my-personal-experience-with-impostor-syndrome-and-how-i-overcame-it-748ab5d351d0) by [Osong Agberndifor](https://github.com/OA7)
 
 ## Algorithms and Data Structures
 
