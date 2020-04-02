@@ -23,6 +23,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [My Personal Experience with Impostor Syndrome and How I Overcame It](https://medium.com/@agberndifor7/my-personal-experience-with-impostor-syndrome-and-how-i-overcame-it-748ab5d351d0) by [Osong Agberndifor](https://github.com/OA7)
 
 ## Algorithms and Data Structures
+-[Dismantling the Hackerrank Game of Thrones Challenge Using JavaScript](https://medium.com/@biodun9/dismantling-the-hackerrank-game-of-thrones-challenge-using-javascript-16390a338ae2) by [Abiodun Ajibade](https://github.com/Tripple-A)
 
 - [Tutorial on Implementing a Deque in Ruby](https://medium.com/better-programming/implementing-a-deque-in-ruby-cf6e9bfd9c3c?source=your_stories_page---------------------------)
 by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
@@ -74,6 +75,9 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 ## React
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Snapshot Testing with Jest ] (https://medium.com/mikael-araya-blog/snapshot-testing-6e78454aeeba?source=friends_link&sk=6547d76a04b6b66c3f7d343dacaaae42) by [Mikael Araya](https://github.com/mikearaya)
+
+## Redux
+- [THE COOLEST THING ABOUT REDUX STORE IN REACT](https://medium.com/@biodun9/the-coolest-thing-about-redux-store-in-react-ec918ce7307a) by [Abiodun Ajibade](https://github.com/Tripple-A)
 
 ## Angular
 - [Run time Optimization of Angular Application using Caching](https://medium.com/mikael-araya-blog/run-time-optimization-of-angular-application-using-caching-9f1fab73c541?source=friends_link&sk=dd2cd5724a364606a270e11a4d70872f) by [Mikael Araya](https://github.com/mikearaya)
