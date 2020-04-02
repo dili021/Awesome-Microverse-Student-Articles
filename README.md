@@ -62,6 +62,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
 - [Understanding your Rails Application Structure (Beginners Guide)](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj) By [Maria Reyes](https://github.com/majovanilla)
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
+- [HOWTO: Install Rails 6 on Ubuntu](https://medium.com/@voscarmv/howto-install-rails-6-on-ubuntu-7db153e05e07) by [Oscar Mier](https://github.com/voscarmv)
 
 ## JavaScript
 
