@@ -90,6 +90,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 
 ## Other
 
+- [Why should we choose the Microverse coding course over others?](https://medium.com/@ssayyod/why-we-should-choose-the-microverse-coding-course-over-others-1caad73a63ab) by [Sayyod Saidov](https://github.com/MrSayyod)
 - [One month at Microverse](https://hackernoon.com/one-month-at-microverse-je5d37k1) by [Selma Ndi](https://github.com/Datagirlcmr)
 - [3 Initial Experience at Microverse](https://medium.com/@kblycaglayan/3-initial-experience-at-microverse-20d22354be2e) by [Kubilay Caglayan](https://github.com/kblycaglayan)
 - [How Mentorship and Reading Through 100,000+ LoC Made Me a Better Human Being](https://hackernoon.com/how-mentorship-and-reading-through-100000-loc-made-me-a-better-human-being-dnx36vl) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
