@@ -68,6 +68,8 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [How a noob programer climb a (binary) tree in Ruby](https://link.medium.com/2gd0x20Fm5) by [Raphael Cordeiro](https://github.com/phalado/)
 - [The Definitive Command Cheat Sheet for Rails Beginners](https://hackernoon.com/the-definitive-command-cheat-sheet-for-rails-beginners-2uli3yb8) by [Melissa Castorena](https://github.com/mcastorena0316)
+- [HOWTO: Install Rails 6 on Ubuntu](https://medium.com/@voscarmv/howto-install-rails-6-on-ubuntu-7db153e05e07) by [Oscar Mier](https://github.com/voscarmv)
+
 
 ## JavaScript
 
