@@ -115,16 +115,16 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 
 To contribute to this repo you need to:
 
-Write a quality article and publish it online. It doesn't necessarily need to be completely technical, but do make it related to either programming in general or your journey at microverse. How it has affected you, your family, your career, motivation, English etc. Anything that stems from "Hey, I'm gonna join Microverse/become a programmer!"
+Write a quality article and publish it online. It doesn't necessarily need to be completely technical, but do make it related to either programming in general or your journey at microverse. How it has affected you, your family, your career, motivation, English etc. Anything that stems from "Hey, I'm gonna join Microverse &| become a programmer!"
 
 When your article is published, there are two ways you can upload it:
 
-- You can fork the repo and create a pull request with it.
+- You can fork the repo and create a pull request with it || You can send it to microverse.students.blog@gmail.com
 - Remember to add your username and your github profile like this: `[Your Name](www.github.com/yourname)`
 
 
 
-You can send it to microverse.students.blog@gmail.com
+
 
 
 
