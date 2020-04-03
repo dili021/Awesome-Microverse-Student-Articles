@@ -21,6 +21,7 @@
 by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [How to Host static website for Free on Github Pages](https://medium.com/mikael-araya-blog/hosting-static-website-on-github-pages-for-free-570e90d6dabd?source=friends_link&sk=0242bdcd89240faae2bd7d9d7c81d223) by [Mikael Araya](https://github.com/mikearaya)
 - [My Personal Experience with Impostor Syndrome and How I Overcame It](https://medium.com/@agberndifor7/my-personal-experience-with-impostor-syndrome-and-how-i-overcame-it-748ab5d351d0) by [Osong Agberndifor](https://github.com/OA7)
+- [Coding is like The Lord of The Rings — and I will prove it!](https://link.medium.com/BTamWVTFm5) by [Raphael Cordeiro](https://github.com/phalado/)
 
 ## Algorithms and Data Structures
 
@@ -54,6 +55,8 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Why You Shouldn’t Write Vanilla CSS](https://hackernoon.com/why-you-shouldnt-write-vanilla-v92333xn) by [Ermin Cahtarevic](https://github.com/ermin-cahtarevic)
 - [Understanding Pseudo-Class Selectors](https://hackernoon.com/understanding-pseudo-class-selectors-mg443t89) by [Denis Oluka](https://github.com/OlukaDenis)
 - [5 VSCode Quick Tips to Boost Your HTML Writing](https://hackernoon.com/5-vscode-quick-tips-to-boost-your-html-writing-uw943yx6) by [Felipe Rosa](https://github.com/flpfar)
+- [Understanding (And Making Your Life Easier) With Bootstrap](https://hackernoon.com/understanding-and-making-your-life-easier-with-bootstrap-nnr2gpb) by [Melissa Castorena](https://github.com/mcastorena0316)
+- [Indent-Rainbow tool for making indentation in your code HTML more readable](https://link.medium.com/WjdqOSkUm5) by [Wilfried Canirinka](https://github.com/WCanirinka)
 
 ## Ruby & Ruby on Rails
 
@@ -62,6 +65,8 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
 - [Understanding your Rails Application Structure (Beginners Guide)](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj) By [Maria Reyes](https://github.com/majovanilla)
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
+- [How a noob programer climb a (binary) tree in Ruby](https://link.medium.com/2gd0x20Fm5) by [Raphael Cordeiro](https://github.com/phalado/)
+- [The Definitive Command Cheat Sheet for Rails Beginners](https://hackernoon.com/the-definitive-command-cheat-sheet-for-rails-beginners-2uli3yb8) by [Melissa Castorena](https://github.com/mcastorena0316)
 
 ## JavaScript
 
@@ -70,10 +75,11 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Testing a Javascript function that writes to the DOM](https://medium.com/@shloch2007/testing-a-javascript-function-that-writes-to-the-dom-cfcba46a7c12) by [SHEY Louis](https://github.com/shloch).
 - [How to Use Eslint With Webpack And ES6 Modules](https://hackernoon.com/how-to-use-eslint-with-webpack-and-es6-modules-sr4r3y6x) by [Gabriela Cruz](https://github.com/ViriCruz/)
 - [Deep dive in javascript objects](https://medium.com/mikael-araya-blog/javascript-objects-f8e8f07c1235?source=friends_link&sk=1394e75a26ef4c703153b9eed68bc966) by [Mikael Araya](https://github.com/mikearaya)
+- [Checkers Online — How to create and deploy a Javascript application](https://link.medium.com/aVFNb1HCd5) by [Raphael Cordeiro](https://github.com/phalado/)
 
 ## React
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
-- [Snapshot Testing with Jest ] (https://medium.com/mikael-araya-blog/snapshot-testing-6e78454aeeba?source=friends_link&sk=6547d76a04b6b66c3f7d343dacaaae42) by [Mikael Araya](https://github.com/mikearaya)
+- [Snapshot Testing with Jest](https://medium.com/mikael-araya-blog/snapshot-testing-6e78454aeeba?source=friends_link&sk=6547d76a04b6b66c3f7d343dacaaae42) by [Mikael Araya](https://github.com/mikearaya)
 
 ## Angular
 - [Run time Optimization of Angular Application using Caching](https://medium.com/mikael-araya-blog/run-time-optimization-of-angular-application-using-caching-9f1fab73c541?source=friends_link&sk=dd2cd5724a364606a270e11a4d70872f) by [Mikael Araya](https://github.com/mikearaya)
