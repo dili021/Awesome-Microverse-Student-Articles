@@ -90,7 +90,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 
 ## Angular
 - [Run time Optimization of Angular Application using Caching](https://medium.com/mikael-araya-blog/run-time-optimization-of-angular-application-using-caching-9f1fab73c541?source=friends_link&sk=dd2cd5724a364606a270e11a4d70872f) by [Mikael Araya](https://github.com/mikearaya)
-- [Controlling Visibility of components Based on User Claims using Angular Structural Directive](Controlling Visibility of component Based on User Claims using Angular Structural Directive) by [Mikael Araya](https://github.com/mikearaya)
+- [Controlling Visibility of components Based on User Claims using Angular Structural Directive](https://medium.com/mikael-araya-blog/controlling-visibility-of-component-based-on-user-claims-using-angular-directives-deb350b7493) by [Mikael Araya](https://github.com/mikearaya)
 - [Angular: Restricting user access Using claim based Authorization With Router Guard](https://medium.com/mikael-araya-blog/angular-restricting-user-access-using-claim-based-authorization-with-router-guard-844184f3a029?source=friends_link&sk=7518fed27e46d98d52023ba1097e24c2) by [Mikael Araya](https://github.com/mikearaya)
 - [Dynamic Title Component for Angular Application](https://medium.com/mikael-araya-blog/custom-title-component-for-angular-application-ec4b415e0a66?source=friends_link&sk=b120e5112df19c72097426a6658c88a9) by [Mikael Araya](https://github.com/mikearaya)
 - [Building Clickable Breadcrumbs Component for Angular Application](https://medium.com/mikael-araya-blog/building-clickable-breadcrumbs-component-for-angular-application-584496378215?source=friends_link&sk=4860946a2be59f4640ff0a832f87e0bb) by [Mikael Araya](https://github.com/mikearaya)
