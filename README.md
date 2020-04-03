@@ -8,6 +8,7 @@
 - [Ruby & Ruby on Rails](#ruby--ruby-on-rails)
 - [JavaScript](#javascript)
 - [React](#React)
+- [Redux](#Redux)
 - [Angular](#Angular)
 - [Blockchain](#Blockchain)
 
