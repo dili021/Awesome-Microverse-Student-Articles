@@ -71,6 +71,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [The Definitive Command Cheat Sheet for Rails Beginners](https://hackernoon.com/the-definitive-command-cheat-sheet-for-rails-beginners-2uli3yb8) by [Melissa Castorena](https://github.com/mcastorena0316)
 - [HOWTO: Install Rails 6 on Ubuntu](https://medium.com/@voscarmv/howto-install-rails-6-on-ubuntu-7db153e05e07) by [Oscar Mier](https://github.com/voscarmv)
 - [You Need to Know What is erb in Rails and How to Master it](https://hackernoon.com/you-need-to-know-what-is-erb-in-rails-and-how-to-master-it-oj303yxq) by [David Auza](https://github.com/davidauza-engineer)
+- [How to Build Awesome Integration Tests with Capybara](https://hackernoon.com/how-to-build-awesome-integration-tests-with-capybara-j9333y68) by [Maria Quemé](https://github.com/euqueme)
 
 
 ## JavaScript
