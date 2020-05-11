@@ -12,6 +12,19 @@
 - [Angular](#Angular)
 - [Blockchain](#Blockchain)
 
+## Algorithms and Data Structures
+
+- [Dismantling the Hackerrank Game of Thrones Challenge Using JavaScript](https://medium.com/@biodun9/dismantling-the-hackerrank-game-of-thrones-challenge-using-javascript-16390a338ae2) by [Abiodun Ajibade](https://github.com/Tripple-A)
+- [Tutorial on Implementing a Deque in Ruby](https://medium.com/better-programming/implementing-a-deque-in-ruby-cf6e9bfd9c3c?source=your_stories_page---------------------------)
+by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
+- [Solving the Sliding Maximum Window Problem in O(n) Time](https://medium.com/better-programming/solving-the-sliding-maximum-window-problem-with-o-n-b43ea3dd871f?source=your_stories_page---------------------------)
+by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
+- [https://medium.com/better-programming/this-how-compilers-evaluate-expressions-and-know-when-you-omit-brackets-semi-colons-d2c262a81b0a?source=your_stories_page---------------------------](https://medium.com/better-programming/this-how-compilers-evaluate-expressions-and-know-when-you-omit-brackets-semi-colons-d2c262a81b0a?source=your_stories_page---------------------------)
+by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
+- [Solving the Min-Stack Problem in O(1) Time](https://medium.com/better-programming/solving-the-min-stack-problem-in-o-1-time-using-a-single-stack-in-ruby-626f65142927?source=your_stories_page---------------------------)
+by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
+- [Solving The Transposition Challenge Looping Through The String Once](https://medium.com/better-programming/solving-the-transposition-challenge-looping-through-the-string-once-9997b4f0c24?source=your_stories_page---------------------------)
+by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 
 ## General programming
 
@@ -24,21 +37,6 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [My Personal Experience with Impostor Syndrome and How I Overcame It](https://medium.com/@agberndifor7/my-personal-experience-with-impostor-syndrome-and-how-i-overcame-it-748ab5d351d0) by [Osong Agberndifor](https://github.com/OA7)
 - [Coding is like The Lord of The Rings — and I will prove it!](https://link.medium.com/BTamWVTFm5) by [Raphael Cordeiro](https://github.com/phalado/)
 - [CRUD and the 7 RESTful actions](https://medium.com/@stefan.dili.021/crud-and-the-7-restful-actions-7e3bb698caa6) by [Stefan Dili](https://github.com/dili021)
-
-## Algorithms and Data Structures
--[Dismantling the Hackerrank Game of Thrones Challenge Using JavaScript](https://medium.com/@biodun9/dismantling-the-hackerrank-game-of-thrones-challenge-using-javascript-16390a338ae2) by [Abiodun Ajibade](https://github.com/Tripple-A)
-
-- [Tutorial on Implementing a Deque in Ruby](https://medium.com/better-programming/implementing-a-deque-in-ruby-cf6e9bfd9c3c?source=your_stories_page---------------------------)
-by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
-- [Solving the Sliding Maximum Window Problem in O(n) Time](https://medium.com/better-programming/solving-the-sliding-maximum-window-problem-with-o-n-b43ea3dd871f?source=your_stories_page---------------------------)
-by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
-- [https://medium.com/better-programming/this-how-compilers-evaluate-expressions-and-know-when-you-omit-brackets-semi-colons-d2c262a81b0a?source=your_stories_page---------------------------](https://medium.com/better-programming/this-how-compilers-evaluate-expressions-and-know-when-you-omit-brackets-semi-colons-d2c262a81b0a?source=your_stories_page---------------------------)
-by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
-- [Solving the Min-Stack Problem in O(1) Time](https://medium.com/better-programming/solving-the-min-stack-problem-in-o-1-time-using-a-single-stack-in-ruby-626f65142927?source=your_stories_page---------------------------)
-by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
-- [Solving The Transposition Challenge Looping Through The String Once](https://medium.com/better-programming/solving-the-transposition-challenge-looping-through-the-string-once-9997b4f0c24?source=your_stories_page---------------------------)
-by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
-
 
 ## HTML & CSS
 
