@@ -72,6 +72,8 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [HOWTO: Install Rails 6 on Ubuntu](https://medium.com/@voscarmv/howto-install-rails-6-on-ubuntu-7db153e05e07) by [Oscar Mier](https://github.com/voscarmv)
 - [You Need to Know What is erb in Rails and How to Master it](https://hackernoon.com/you-need-to-know-what-is-erb-in-rails-and-how-to-master-it-oj303yxq) by [David Auza](https://github.com/davidauza-engineer)
 - [How to Build Awesome Integration Tests with Capybara](https://hackernoon.com/how-to-build-awesome-integration-tests-with-capybara-j9333y68) by [Maria Quemé](https://github.com/euqueme)
+- [Why Do Startups Love Ruby on Rails?](https://hackernoon.com/why-do-startups-love-ruby-on-rails-z12c3ys8) by [Ermin Cahtarevic](https://github.com/ermin-cahtarevic)
+
 
 
 ## JavaScript
