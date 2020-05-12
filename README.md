@@ -54,6 +54,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
 - [Understanding your Rails Application Structure (Beginners Guide)](https://hackernoon.com/understanding-your-rails-application-structure-r8w32xj) By [Maria Reyes](https://github.com/majovanilla)
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
+- [Why Do Startups Love Ruby on Rails?](https://hackernoon.com/why-do-startups-love-ruby-on-rails-z12c3ys8) by [Ermin Cahtarevic](https://github.com/ermin-cahtarevic)
 
 ## JavaScript
 
