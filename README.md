@@ -19,7 +19,7 @@
 by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Solving the Sliding Maximum Window Problem in O(n) Time](https://medium.com/better-programming/solving-the-sliding-maximum-window-problem-with-o-n-b43ea3dd871f?source=your_stories_page---------------------------)
 by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
-- [https://medium.com/better-programming/this-how-compilers-evaluate-expressions-and-know-when-you-omit-brackets-semi-colons-d2c262a81b0a?source=your_stories_page---------------------------](https://medium.com/better-programming/this-how-compilers-evaluate-expressions-and-know-when-you-omit-brackets-semi-colons-d2c262a81b0a?source=your_stories_page---------------------------)
+- [how compilers evaluate expressions and know when you omit brackets](https://medium.com/better-programming/this-how-compilers-evaluate-expressions-and-know-when-you-omit-brackets-semi-colons-d2c262a81b0a?source=your_stories_page---------------------------)
 by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Solving the Min-Stack Problem in O(1) Time](https://medium.com/better-programming/solving-the-min-stack-problem-in-o-1-time-using-a-single-stack-in-ruby-626f65142927?source=your_stories_page---------------------------)
 by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
