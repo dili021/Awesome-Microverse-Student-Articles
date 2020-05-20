@@ -48,6 +48,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Responsive Web Design: Understand And Apply It Once And For All](https://medium.com/@muriloengqui/responsive-web-design-understand-and-apply-it-once-and-for-all-2ffc1e01aa41) by [Murilo Roque](https://github.com/MuriloRoque)
 - [Why You Shouldn’t Write Vanilla CSS](https://hackernoon.com/why-you-shouldnt-write-vanilla-v92333xn) by [Ermin Cahtarevic](https://github.com/ermin-cahtarevic)
 - [Understanding Pseudo-Class Selectors](https://hackernoon.com/understanding-pseudo-class-selectors-mg443t89) by [Denis Oluka](https://github.com/OlukaDenis)
+- [8 HTML and CSS projects later, here is what I learned about HTML and CSS BEST CODING PRACTICES-Beginner’s Guide](https://medium.com/@lukoyedith/8-html-and-css-projects-later-here-is-what-i-learned-about-html-and-css-best-coding-9c186e67480) by [Emogene Lukoye](https://github.com/Elukoye)
 
 ## Ruby & Ruby on Rails
 
