@@ -107,6 +107,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 
 ## Other
 
+- [What are you doing using templates on your first web page?](https://medium.com/@bertiltandayamo/what-are-you-doing-using-templates-on-your-first-web-page-1c2bc6b2a4a) by [Bertil Tandayamo](https://github.com/bertil291utn?tab=repositories)
 - [Why should we choose the Microverse coding course over others?](https://medium.com/@ssayyod/why-we-should-choose-the-microverse-coding-course-over-others-1caad73a63ab) by [Sayyod Saidov](https://github.com/MrSayyod)
 - [One month at Microverse](https://hackernoon.com/one-month-at-microverse-je5d37k1) by [Selma Ndi](https://github.com/Datagirlcmr)
 - [3 Initial Experience at Microverse](https://medium.com/@kblycaglayan/3-initial-experience-at-microverse-20d22354be2e) by [Kubilay Caglayan](https://github.com/kblycaglayan)
