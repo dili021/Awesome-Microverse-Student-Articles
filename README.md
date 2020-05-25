@@ -74,7 +74,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [You Need to Know What is erb in Rails and How to Master it](https://hackernoon.com/you-need-to-know-what-is-erb-in-rails-and-how-to-master-it-oj303yxq) by [David Auza](https://github.com/davidauza-engineer)
 - [How to Build Awesome Integration Tests with Capybara](https://hackernoon.com/how-to-build-awesome-integration-tests-with-capybara-j9333y68) by [Maria Quemé](https://github.com/euqueme)
 - [Why Do Startups Love Ruby on Rails?](https://hackernoon.com/why-do-startups-love-ruby-on-rails-z12c3ys8) by [Ermin Cahtarevic](https://github.com/ermin-cahtarevic)
-
+- [A Step by Step Guide To Using The Rails Console To Test Rails Models, Associations and Validations.](https://medium.com/swlh/a-step-by-step-guide-to-using-the-rails-console-to-test-rails-models-associations-and-validations-986f4825aadf)
 
 
 ## JavaScript
