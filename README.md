@@ -56,7 +56,8 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [Responsive Web Design: Understand And Apply It Once And For All](https://medium.com/@muriloengqui/responsive-web-design-understand-and-apply-it-once-and-for-all-2ffc1e01aa41) by [Murilo Roque](https://github.com/MuriloRoque)
 - [Why You Shouldn’t Write Vanilla CSS](https://hackernoon.com/why-you-shouldnt-write-vanilla-v92333xn) by [Ermin Cahtarevic](https://github.com/ermin-cahtarevic)
 - [Understanding Pseudo-Class Selectors](https://hackernoon.com/understanding-pseudo-class-selectors-mg443t89) by [Denis Oluka](https://github.com/OlukaDenis)
-- [8 HTML and CSS projects later, here is what I learned about HTML and CSS BEST CODING PRACTICES-Beginner’s Guide](https://medium.com/@lukoyedith/8-html-and-css-projects-later-here-is-what-i-learned-about-html-and-css-best-coding-9c186e67480) by [Emogene Lukoye](https://github.com/Elukoye)
+- [8 HTML and CSS projects later, here is what I learned about HTML and CSS BEST CODING PRACTICES-Beginner’s Guide](https://medium.com/@lukoyedith/8-html-and-css-projects-later-here-is-what-i-learned-about-html-and-css-best-coding-9c186e67480) by
+[Elukoye](https://github.com/Elukoye)
 - [5 VSCode Quick Tips to Boost Your HTML Writing](https://hackernoon.com/5-vscode-quick-tips-to-boost-your-html-writing-uw943yx6) by [Felipe Rosa](https://github.com/flpfar)
 - [Understanding (And Making Your Life Easier) With Bootstrap](https://hackernoon.com/understanding-and-making-your-life-easier-with-bootstrap-nnr2gpb) by [Melissa Castorena](https://github.com/mcastorena0316)
 - [Indent-Rainbow tool for making indentation in your code HTML more readable](https://link.medium.com/WjdqOSkUm5) by [Wilfried Canirinka](https://github.com/WCanirinka)
@@ -74,7 +75,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [You Need to Know What is erb in Rails and How to Master it](https://hackernoon.com/you-need-to-know-what-is-erb-in-rails-and-how-to-master-it-oj303yxq) by [David Auza](https://github.com/davidauza-engineer)
 - [How to Build Awesome Integration Tests with Capybara](https://hackernoon.com/how-to-build-awesome-integration-tests-with-capybara-j9333y68) by [Maria Quemé](https://github.com/euqueme)
 - [Why Do Startups Love Ruby on Rails?](https://hackernoon.com/why-do-startups-love-ruby-on-rails-z12c3ys8) by [Ermin Cahtarevic](https://github.com/ermin-cahtarevic)
-- [A Step by Step Guide To Using The Rails Console To Test Rails Models, Associations and Validations.](https://medium.com/swlh/a-step-by-step-guide-to-using-the-rails-console-to-test-rails-models-associations-and-validations-986f4825aadf)
+- [A Step by Step Guide To Using The Rails Console To Test Rails Models, Associations and Validations.](https://medium.com/swlh/a-step-by-step-guide-to-using-the-rails-console-to-test-rails-models-associations-and-validations-986f4825aadf) by [Elukoye]
 
 
 ## JavaScript
