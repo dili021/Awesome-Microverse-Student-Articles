@@ -64,6 +64,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 
 ## Ruby & Ruby on Rails
 
+- [How to Integrate Selenium with Capybara](https://hackernoon.com/how-to-integrate-selenium-with-capybara-iq2n30dg) By [Abdel Pérez](https://github.com/abdelp)
 - [Rails Security: Eliminating CSRF and XSS Vulnerabilities](https://medium.com/@michgoldennathan17/rails-security-eliminating-csrf-and-xss-vulnerabilities-5c815faf9c8a) By [Michgolden Ukeje](https://github.com/mikenath223)
 - [Deploying rails app with facebook login integration](https://medium.com/@web.markyn/creating-and-deploying-rails-application-with-facebook-login-integration-ceaad1025daf)
 - [Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
