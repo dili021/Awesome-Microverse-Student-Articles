@@ -96,6 +96,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 
 ## Redux
 - [THE COOLEST THING ABOUT REDUX STORE IN REACT](https://medium.com/@biodun9/the-coolest-thing-about-redux-store-in-react-ec918ce7307a) by [Abiodun Ajibade](https://github.com/Tripple-A)
+- [Get hooked on Hooks](https://dev.to/misselliev/get-hooked-on-hooks-2ob9) by [Elizabeth Villalejos](https://github.com/misselliev)
 
 ## Angular
 - [Run time Optimization of Angular Application using Caching](https://medium.com/mikael-araya-blog/run-time-optimization-of-angular-application-using-caching-9f1fab73c541?source=friends_link&sk=dd2cd5724a364606a270e11a4d70872f) by [Mikael Araya](https://github.com/mikearaya)
