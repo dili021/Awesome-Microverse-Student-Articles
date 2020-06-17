@@ -123,6 +123,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [How to Setup Environment Variables for Web Dev projects](http://bit.ly/2v0FMQm) by [Kelvin Liang](https://github.com/kelvin8773)
 - [My experience at Microverse](https://medium.com/@migueldp4/my-experience-at-microverse-d464fd4cb431) by [Miguel Dubois (Mike)](https://github.com/migueldp4)
 - [How To Auto-Correct Your Code: A Web Developer Guide](https://hackernoon.com/how-to-auto-correct-your-code-a-web-developer-guide-f12y32vn) by [Ikraam Ghoor](https://github.com/ikraamg)
+- [#remotelife 101](https://dev.to/misselliev/remotelife-101-522h) by [Elizabeth Villalejos](https://github.com/misselliev)
 
 ## 🤝 Contributing
 
