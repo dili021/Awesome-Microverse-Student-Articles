@@ -80,7 +80,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [Why Do Startups Love Ruby on Rails?](https://hackernoon.com/why-do-startups-love-ruby-on-rails-z12c3ys8) by [Ermin Cahtarevic](https://github.com/ermin-cahtarevic)
 - [A Step by Step Guide To Using The Rails Console To Test Rails Models, Associations and Validations.](https://medium.com/swlh/a-step-by-step-guide-to-using-the-rails-console-to-test-rails-models-associations-and-validations-986f4825aadf) by [Emogene Lukoye](https://github.com/Elukoye)
 - [A Refactoring Guide for Ruby on Rails](https://medium.com/@muriloengqui/a-refactoring-guide-for-ruby-on-rails-10ca215f30e5) by [Murilo Roque](https://github.com/MuriloRoque)
- 
+ - [A note about OpenSSL error on Rails. ](https://dev.to/misselliev/a-note-about-openssl-error-on-rails-3jaf) by [Elizabeth Villalejos](https://github.com/misselliev)
 
 
 ## JavaScript
