@@ -13,7 +13,7 @@
 - [Blockchain](#Blockchain)
 
 ## Algorithms and Data Structures
-
+- [Bubble Sort Algorithm: How to Develop Your Computational Thinking](https://medium.com/swlh/bubble-sort-algorithm-how-to-develop-your-computational-thinking-c092a9b4bf16) by [kitpao](https://github.com/kitpao)
 - [Dismantling the Hackerrank Game of Thrones Challenge Using JavaScript](https://medium.com/@biodun9/dismantling-the-hackerrank-game-of-thrones-challenge-using-javascript-16390a338ae2) by [Abiodun Ajibade](https://github.com/Tripple-A)
 - [Tutorial on Implementing a Deque in Ruby](https://medium.com/better-programming/implementing-a-deque-in-ruby-cf6e9bfd9c3c?source=your_stories_page---------------------------)
 by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
