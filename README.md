@@ -25,6 +25,8 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Solving The Transposition Challenge Looping Through The String Once](https://medium.com/better-programming/solving-the-transposition-challenge-looping-through-the-string-once-9997b4f0c24?source=your_stories_page---------------------------)
 by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
+- [Easy as a pie Big O notation: Series.](https://dev.to/misselliev/easy-as-a-pie-big-o-notation-part-1-time-3197) by [Elizabeth Villalejos](https://github.com/misselliev)
+
 
 ## General programming
 
@@ -78,7 +80,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [Why Do Startups Love Ruby on Rails?](https://hackernoon.com/why-do-startups-love-ruby-on-rails-z12c3ys8) by [Ermin Cahtarevic](https://github.com/ermin-cahtarevic)
 - [A Step by Step Guide To Using The Rails Console To Test Rails Models, Associations and Validations.](https://medium.com/swlh/a-step-by-step-guide-to-using-the-rails-console-to-test-rails-models-associations-and-validations-986f4825aadf) by [Emogene Lukoye](https://github.com/Elukoye)
 - [A Refactoring Guide for Ruby on Rails](https://medium.com/@muriloengqui/a-refactoring-guide-for-ruby-on-rails-10ca215f30e5) by [Murilo Roque](https://github.com/MuriloRoque)
- 
+ - [A note about OpenSSL error on Rails. ](https://dev.to/misselliev/a-note-about-openssl-error-on-rails-3jaf) by [Elizabeth Villalejos](https://github.com/misselliev)
 
 
 ## JavaScript
@@ -96,6 +98,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 
 ## Redux
 - [THE COOLEST THING ABOUT REDUX STORE IN REACT](https://medium.com/@biodun9/the-coolest-thing-about-redux-store-in-react-ec918ce7307a) by [Abiodun Ajibade](https://github.com/Tripple-A)
+- [Get hooked on Hooks](https://dev.to/misselliev/get-hooked-on-hooks-2ob9) by [Elizabeth Villalejos](https://github.com/misselliev)
 
 ## Angular
 - [Run time Optimization of Angular Application using Caching](https://medium.com/mikael-araya-blog/run-time-optimization-of-angular-application-using-caching-9f1fab73c541?source=friends_link&sk=dd2cd5724a364606a270e11a4d70872f) by [Mikael Araya](https://github.com/mikearaya)
@@ -120,6 +123,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [How to Setup Environment Variables for Web Dev projects](http://bit.ly/2v0FMQm) by [Kelvin Liang](https://github.com/kelvin8773)
 - [My experience at Microverse](https://medium.com/@migueldp4/my-experience-at-microverse-d464fd4cb431) by [Miguel Dubois (Mike)](https://github.com/migueldp4)
 - [How To Auto-Correct Your Code: A Web Developer Guide](https://hackernoon.com/how-to-auto-correct-your-code-a-web-developer-guide-f12y32vn) by [Ikraam Ghoor](https://github.com/ikraamg)
+- [#remotelife 101](https://dev.to/misselliev/remotelife-101-522h) by [Elizabeth Villalejos](https://github.com/misselliev)
 
 ## 🤝 Contributing
 
