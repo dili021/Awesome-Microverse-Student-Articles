@@ -25,7 +25,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Solving The Transposition Challenge Looping Through The String Once](https://medium.com/better-programming/solving-the-transposition-challenge-looping-through-the-string-once-9997b4f0c24?source=your_stories_page---------------------------)
 by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
-- [Easy as a pie Big O notation. Part 1: Time.](https://dev.to/misselliev/easy-as-a-pie-big-o-notation-part-1-time-3197) by [Elizabeth Villalejos](https://github.com/misselliev)
+- [Easy as a pie Big O notation: Series.](https://dev.to/misselliev/easy-as-a-pie-big-o-notation-part-1-time-3197) by [Elizabeth Villalejos](https://github.com/misselliev)
 
 
 ## General programming
