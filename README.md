@@ -63,6 +63,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [5 VSCode Quick Tips to Boost Your HTML Writing](https://hackernoon.com/5-vscode-quick-tips-to-boost-your-html-writing-uw943yx6) by [Felipe Rosa](https://github.com/flpfar)
 - [Understanding (And Making Your Life Easier) With Bootstrap](https://hackernoon.com/understanding-and-making-your-life-easier-with-bootstrap-nnr2gpb) by [Melissa Castorena](https://github.com/mcastorena0316)
 - [Indent-Rainbow tool for making indentation in your code HTML more readable](https://link.medium.com/WjdqOSkUm5) by [Wilfried Canirinka](https://github.com/WCanirinka)
+- [Free Courses for Learning HTML: 2020 Edition](https://hackernoon.com/free-courses-for-learning-html-2020-edition-9g5l3wea) by [Mupa M'mbetsa](https://github.com/Mupa1)
 
 ## Ruby & Ruby on Rails
 
