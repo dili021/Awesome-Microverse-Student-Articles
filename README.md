@@ -94,6 +94,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [How to Use Eslint With Webpack And ES6 Modules](https://hackernoon.com/how-to-use-eslint-with-webpack-and-es6-modules-sr4r3y6x) by [Gabriela Cruz](https://github.com/ViriCruz/)
 - [Deep dive in javascript objects](https://medium.com/mikael-araya-blog/javascript-objects-f8e8f07c1235?source=friends_link&sk=1394e75a26ef4c703153b9eed68bc966) by [Mikael Araya](https://github.com/mikearaya)
 - [Checkers Online — How to create and deploy a Javascript application](https://link.medium.com/aVFNb1HCd5) by [Raphael Cordeiro](https://github.com/phalado/)
+- [Javascript Must-Have Packages and Extensions](https://medium.com/@muriloengqui/javascript-must-have-packages-and-extensions-7e121f22d8d5)
 
 ## React
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
