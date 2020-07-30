@@ -87,6 +87,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 
 ## JavaScript
 
+- [Understanding _this_ in JavaScript](https://careerkarma.com/blog/this-javascript/) by [Stefan Dili](https://github.com/dili021)
 - [How I Adopted the Model, View, Controller (MVC) Architectural Pattern in JavaScript](https://hackernoon.com/how-i-adopted-the-model-view-controller-mvc-architectural-pattern-in-javascript-x45p32i3) by [Aaron Rory](https://github.com/Aaron-RN)
 - [How to hide your front-end API keys](https://blog.mauriciorobayo.com/how-to-hide-your-front-end-api-keys-ck6jqvll900y3dfs11u3x96tn) by [Mauricio Robayo](https://github.com/MauricioRobayo).
 - [10x your code with the facade pattern, currying, and closures](https://blog.mauriciorobayo.com/10x-your-code-with-the-facade-pattern-currying-and-closures-ck6k04als010ndfs1jg6gg5jo) by [Mauricio Robayo](https://github.com/MauricioRobayo).
