@@ -39,6 +39,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [My Personal Experience with Impostor Syndrome and How I Overcame It](https://medium.com/@agberndifor7/my-personal-experience-with-impostor-syndrome-and-how-i-overcame-it-748ab5d351d0) by [Osong Agberndifor](https://github.com/OA7)
 - [Coding is like The Lord of The Rings — and I will prove it!](https://link.medium.com/BTamWVTFm5) by [Raphael Cordeiro](https://github.com/phalado/)
 - [CRUD and the 7 RESTful actions](https://medium.com/@stefan.dili.021/crud-and-the-7-restful-actions-7e3bb698caa6) by [Stefan Dili](https://github.com/dili021)
+- [How to Push to GitHub without Typing your Password every time](https://medium.com/@bellomsean/how-to-push-to-github-without-typing-your-password-every-time-646b9fe8af2d) by [Oluwaseun Bello](https://github.com/bellom)
 
 ## HTML & CSS
 
