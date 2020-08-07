@@ -95,6 +95,9 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 ## React
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Snapshot Testing with Jest](https://medium.com/mikael-araya-blog/snapshot-testing-6e78454aeeba?source=friends_link&sk=6547d76a04b6b66c3f7d343dacaaae42) by [Mikael Araya](https://github.com/mikearaya)
+- [Upgrade your React game with TypeScript: Setup.](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-setup-3bnk) by [Elizabeth Villalejos](https://github.com/misselliev)
+- [Upgrade your React game with TypeScript: Interfaces, types and components](https://dev.to/misselliev/interfaces-types-and-components-50e6) by [Elizabeth Villalejos](https://github.com/misselliev)
+
 
 ## Redux
 - [THE COOLEST THING ABOUT REDUX STORE IN REACT](https://medium.com/@biodun9/the-coolest-thing-about-redux-store-in-react-ec918ce7307a) by [Abiodun Ajibade](https://github.com/Tripple-A)
