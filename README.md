@@ -66,6 +66,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [Understanding (And Making Your Life Easier) With Bootstrap](https://hackernoon.com/understanding-and-making-your-life-easier-with-bootstrap-nnr2gpb) by [Melissa Castorena](https://github.com/mcastorena0316)
 - [Indent-Rainbow tool for making indentation in your code HTML more readable](https://link.medium.com/WjdqOSkUm5) by [Wilfried Canirinka](https://github.com/WCanirinka)
 - [Free Courses for Learning HTML: 2020 Edition](https://hackernoon.com/free-courses-for-learning-html-2020-edition-9g5l3wea) by [Mupa M'mbetsa](https://github.com/Mupa1)
+- [6 HTML & CSS Interview Q&As (with text and video explanation)](https://medium.com/@muriloengqui/6-html-css-interview-q-as-with-text-and-video-explanation-810b5443510a?source=friends_link&sk=76e8dbfced3aaeb2f3e68d0b55fdf37a) by [Murilo Roque](https://github.com/MuriloRoque)
 
 ## Ruby & Ruby on Rails
 
