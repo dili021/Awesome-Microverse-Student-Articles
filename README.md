@@ -35,6 +35,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [Web Development for Beginners - Key Concepts, Roles and Tools](https://hackernoon.com/important-concepts-that-you-have-to-understand-to-become-a-web-developer-for-beginners-lj202gan)
 - [VIM for web-development (HTML/CSS) in 2020](https://medium.com/@felipe.anjos/vim-for-web-development-html-css-in-2020-95576d9b21ad)
 by [Felipe dos Anjos](https://github.com/fc-anjos)
+- [How Project-Based Learning Helping Me To Learn Web Development](https://hackernoon.com/how-project-based-learning-helping-me-to-learn-web-development-0l233u17) by [Witah Georjane](https://github.com/Georjane)
 - [How to Host static website for Free on Github Pages](https://medium.com/mikael-araya-blog/hosting-static-website-on-github-pages-for-free-570e90d6dabd?source=friends_link&sk=0242bdcd89240faae2bd7d9d7c81d223) by [Mikael Araya](https://github.com/mikearaya)
 - [My Personal Experience with Impostor Syndrome and How I Overcame It](https://medium.com/@agberndifor7/my-personal-experience-with-impostor-syndrome-and-how-i-overcame-it-748ab5d351d0) by [Osong Agberndifor](https://github.com/OA7)
 - [Coding is like The Lord of The Rings — and I will prove it!](https://link.medium.com/BTamWVTFm5) by [Raphael Cordeiro](https://github.com/phalado/)
@@ -70,6 +71,8 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 
 ## Ruby & Ruby on Rails
 
+- [Rails View Helpers — Best Practices Guide](https://medium.com/@acushla4real/rails-view-helpers-best-practices-guide-d7d7b6db3db4) by [Uduak Essien](https://github.com/acushlakoncept/)
+- [Toastr, a Perfect Flash Message Alternative for Rails](https://medium.com/@acushla4real/toastr-a-perfect-flash-message-alternative-for-rails-3d3ed823b145) by [Uduak Essien](https://github.com/acushlakoncept/)
 - [How to Integrate Selenium with Capybara](https://hackernoon.com/how-to-integrate-selenium-with-capybara-iq2n30dg) By [Abdel Pérez](https://github.com/abdelp)
 - [Rails Security: Eliminating CSRF and XSS Vulnerabilities](https://medium.com/@michgoldennathan17/rails-security-eliminating-csrf-and-xss-vulnerabilities-5c815faf9c8a) By [Michgolden Ukeje](https://github.com/mikenath223)
 - [Deploying rails app with facebook login integration](https://medium.com/@web.markyn/creating-and-deploying-rails-application-with-facebook-login-integration-ceaad1025daf)
