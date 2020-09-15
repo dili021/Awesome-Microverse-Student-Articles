@@ -69,7 +69,9 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [Free Courses for Learning HTML: 2020 Edition](https://hackernoon.com/free-courses-for-learning-html-2020-edition-9g5l3wea) by [Mupa M'mbetsa](https://github.com/Mupa1)
 
 ## Ruby & Ruby on Rails
-
+- [Understanding RSpec Controller/Request Specs & Integration Test Using Capybara](https://www.microverse.org/blog/understanding-rspec-controller-request-specs-integration-test-using-capybara) by [Uduak Essien](https://github.com/acushlakoncept/)
+- [Understanding RSpec Model and Helper Specs](https://www.microverse.org/blog/understanding-rspec-model-and-helper-specs) by [Uduak Essien](https://github.com/acushlakoncept/)
+- [Understanding Test-Driven Development with RSpec in Ruby on Rails](https://www.microverse.org/blog/test-driven-development-with-rspec-in-ruby-on-rails) by [Uduak Essien](https://github.com/acushlakoncept/)
 - [Rails View Helpers — Best Practices Guide](https://medium.com/@acushla4real/rails-view-helpers-best-practices-guide-d7d7b6db3db4) by [Uduak Essien](https://github.com/acushlakoncept/)
 - [Toastr, a Perfect Flash Message Alternative for Rails](https://medium.com/@acushla4real/toastr-a-perfect-flash-message-alternative-for-rails-3d3ed823b145) by [Uduak Essien](https://github.com/acushlakoncept/)
 - [How to Integrate Selenium with Capybara](https://hackernoon.com/how-to-integrate-selenium-with-capybara-iq2n30dg) By [Abdel Pérez](https://github.com/abdelp)
