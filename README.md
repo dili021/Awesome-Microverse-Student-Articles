@@ -101,6 +101,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [Deep dive in javascript objects](https://medium.com/mikael-araya-blog/javascript-objects-f8e8f07c1235?source=friends_link&sk=1394e75a26ef4c703153b9eed68bc966) by [Mikael Araya](https://github.com/mikearaya)
 - [Checkers Online — How to create and deploy a Javascript application](https://link.medium.com/aVFNb1HCd5) by [Raphael Cordeiro](https://github.com/phalado/)
 - [Javascript Must-Have Packages and Extensions](https://medium.com/@muriloengqui/javascript-must-have-packages-and-extensions-7e121f22d8d5) by [Murilo Roque](https://github.com/MuriloRoque)
+- [Configuring Your Phaser 3 Game With Webpack For Production](https://medium.com/@muriloengqui/configuring-your-phaser-3-game-with-webpack-for-production-795329e15a6f) by [Murilo Roque](https://github.com/MuriloRoque)
 
 ## React
 - [Upload Files Directly to AWS in a Rails and React App](https://medium.com/better-programming/uploading-files-directly-to-aws-in-a-rails-react-app-9188f4eb6f7e) by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
