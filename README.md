@@ -70,7 +70,9 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [6 HTML & CSS Interview Q&As (with text and video explanation)](https://medium.com/@muriloengqui/6-html-css-interview-q-as-with-text-and-video-explanation-810b5443510a?source=friends_link&sk=76e8dbfced3aaeb2f3e68d0b55fdf37a) by [Murilo Roque](https://github.com/MuriloRoque)
 
 ## Ruby & Ruby on Rails
-
+- [Understanding RSpec Controller/Request Specs & Integration Test Using Capybara](https://www.microverse.org/blog/understanding-rspec-controller-request-specs-integration-test-using-capybara) by [Uduak Essien](https://github.com/acushlakoncept/)
+- [Understanding RSpec Model and Helper Specs](https://www.microverse.org/blog/understanding-rspec-model-and-helper-specs) by [Uduak Essien](https://github.com/acushlakoncept/)
+- [Understanding Test-Driven Development with RSpec in Ruby on Rails](https://www.microverse.org/blog/test-driven-development-with-rspec-in-ruby-on-rails) by [Uduak Essien](https://github.com/acushlakoncept/)
 - [Rails View Helpers — Best Practices Guide](https://medium.com/@acushla4real/rails-view-helpers-best-practices-guide-d7d7b6db3db4) by [Uduak Essien](https://github.com/acushlakoncept/)
 - [Toastr, a Perfect Flash Message Alternative for Rails](https://medium.com/@acushla4real/toastr-a-perfect-flash-message-alternative-for-rails-3d3ed823b145) by [Uduak Essien](https://github.com/acushlakoncept/)
 - [How to Integrate Selenium with Capybara](https://hackernoon.com/how-to-integrate-selenium-with-capybara-iq2n30dg) By [Abdel Pérez](https://github.com/abdelp)
